@@ -1,10 +1,10 @@
 
 
 ### 克隆源码到本地
-> git clone https://github.com/GeekGhc/zhihu-app
+> git clone https://github.com/maidi-yang/laravel
 
 ### 进入项目目录
-> cd zhihu-app
+> cd laravel
 
 ### 拷贝`.env`文件
 一些 `secret key` 改成自己服务的`key`即可
