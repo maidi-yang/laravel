@@ -14,5 +14,9 @@
 下载`laravel`相关依赖的包
 > composer install
 
-### 创建数据
-> php artisan 
+### 创建密钥
+php artisan key:generate 
+
+### 数据库迁移
+> php artisan migrate
+
